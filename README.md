@@ -40,15 +40,15 @@ Background execution
 Persistence after device reboot
 Android 13+ notification permission flow
 
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/afb13e39-08a9-4124-af78-b055f653d420" 
-
 📌 Status
 ✔ Fully functional
 ✔ Notifications working reliably
 ✔ Serves as a reference for fixing the 18minutos app
 
-/>
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/b915164f-93be-4dfa-b925-1f474ff51ac2" />
+
 
 📄 License
 Internal use for testing and validation.
 Not intended for public distribution.
+
